@@ -1,4 +1,4 @@
 # New Project
 
 This project is created from local system
-created by Suvajit Sadhukhan
+created by Suvajit Sadhukhan.
